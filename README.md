@@ -1,6 +1,6 @@
-# Duggi-Niharika-Sai-06
+# Charan Basireddy
 My Portfolio Website
-link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
+link [https://4019charan.github.io/Portfolio/]
 
 
 
@@ -16,7 +16,7 @@ link https://duggi-niharika-sai-06.github.io/Duggi-Niharika-Sai-06/
     <td valign="center">
      
       🎓 I am currently pursuing my **Master's in Computer Science **.\n
-      🌱 I am currently learning **Java** and also interested in **Web Development**.
+      🌱 I am currently working on **Deep SLAM** an Localisation Problem and also interested in **ML Engineer Position**.
       🎯 My Goal is to Contribute to as many **open source project** as possible.
       ✨ I love to create different types of **contents**.
 <td >
