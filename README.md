@@ -1,6 +1,6 @@
 # Charan Basireddy
 My Portfolio Website
-link [https://4019charan.github.io/Portfolio/]
+link https://4019charan.github.io/Portfolio/
 
 
 
