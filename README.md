@@ -2,8 +2,13 @@
 My Portfolio Website
 link https://4019charan.github.io/Portfolio/
 
+I have hosted the same Webpage on S3 bucket as well. Please find the bucket architecture below
+link http://online-portfolio01.s3-website-us-east-1.amazonaws.com
 
+Securtiy : To secure accesing from other objects I've used the following techniques:
 
+Object Access Control list
+Custom Bucket poicy.(I've left the bucket policy document in one of the files in this Repo)
 
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  </h2>
