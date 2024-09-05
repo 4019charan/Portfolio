@@ -4635,6 +4635,7 @@ section.portfolio .portfolio-grid .element:hover figure img {
 /* Education */
 
 section.education .item-block {
+    background: #fff;
     border: 1px solid #e3e3e3;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -4674,7 +4675,7 @@ section.education .item-block .education-body {
 /* Work Experience */
 
 section.work-experience {
-    background: #f0f0f0;
+    background: #fff;
 }
 
 section.work-experience .item-block {
